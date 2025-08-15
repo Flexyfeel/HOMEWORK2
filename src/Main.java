@@ -77,3 +77,4 @@ int kristinaSalary = 76 230;
         double denisYearDiff = (denisNewSalary - denisSalary) * 12;
         double kristinaYearDiff = (kristinaNewSalary - kristinaSalary) * 12;
 
+;
